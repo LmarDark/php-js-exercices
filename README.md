@@ -16,6 +16,7 @@
 
 **<p>Estrutura dos diretórios que deveser obdecida:</p>**
 
+</br>
 
 www \
   ↳ Equipe1 \
@@ -23,6 +24,9 @@ www \
           ↳ config.php(Opcional) \
           ↳ script.js \
           ↳ styles.css \
+
+</br>
+
   ↳ Equipe2 \
           ↳ index.php \
           ↳ config.php(Opcional) \
