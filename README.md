@@ -25,7 +25,7 @@
 
 </br>
 
-./www \
+./www/ \
   ↳ Equipe2/ \
           ↳↳ index.php \
           ↳↳ config.php(Opcional) \
