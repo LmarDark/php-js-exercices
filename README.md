@@ -16,7 +16,8 @@
 
 **<p>Estrutura dos diretórios que deveser obdecida:</p>**
 
-<p>./www</p>
+
+**./www(\**)
 <p>  ↳ /Equipe1</p>
 <p>          ↳ index.php</p>
 <p>          ↳ config.php(Opcional)</p>
