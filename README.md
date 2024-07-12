@@ -33,3 +33,8 @@ www \
           ↳↳ config.php(Opcional) \
           ↳↳ script.js \
           ↳↳ style.css 
+
+</br>
+
+Equipe1 [F, P] (Iniciais dos participantes)
+Equipe2 [M, C] (Iniciais dos participantes)
