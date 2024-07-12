@@ -23,7 +23,7 @@ www \
           ↳↳ index.php \
           ↳↳ config.php(Opcional) \
           ↳↳ script.js \
-          ↳↳ styles.css 
+          ↳↳ style.css 
 
 </br>
 
@@ -32,4 +32,4 @@ www \
           ↳↳ index.php \
           ↳↳ config.php(Opcional) \
           ↳↳ script.js \
-          ↳↳ styles.css 
+          ↳↳ style.css 
