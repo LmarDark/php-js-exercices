@@ -17,12 +17,12 @@
 **<p>Estrutura dos diretórios que deveser obdecida:</p>**
 
 
-**./www(\**)
-<p>  ↳ /Equipe1</p>
-<p>          ↳ index.php</p>
-<p>          ↳ config.php(Opcional)</p>
-<p>          ↳ script.js</p>
-<p>          ↳ styles.css</p>
+./www \ 
+  ↳ /Equipe1 \
+          ↳ index.php \
+          ↳ config.php(Opcional) \
+          ↳ script.js \
+          ↳ styles.css \
 <p>  ↳ Equipe2</p>
 <p>          ↳ index.php</p>
 <p>          ↳ config.php(Opcional)</p>
