@@ -14,8 +14,6 @@
   - Mustache.js
   - Outras tecnologias
 
-</br>
-
 **<p>Estrutura dos diretórios que deveser obdecida:</p>**
 
 www \
@@ -33,8 +31,6 @@ www \
           ↳↳ config.php(Opcional) \
           ↳↳ script.js \
           ↳↳ style.css 
-
-</br>
 
 **<p>Equipes:</p>**
 <p>Equipe1 [F, P] (Iniciais dos participantes)</p>
