@@ -22,16 +22,3 @@
           ↳↳ config.php(Opcional) \
           ↳↳ script.js \
           ↳↳ style.css 
-
-</br>
-
-./www/ \
-  ↳ Equipe2/ \
-          ↳↳ index.php \
-          ↳↳ config.php(Opcional) \
-          ↳↳ script.js \
-          ↳↳ style.css 
-
-## Equipes
-<p>Equipe1 [F, P] (Iniciais dos participantes)</p>
-<p>Equipe2 [M, C] (Iniciais dos participantes)</p>
