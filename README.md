@@ -23,7 +23,7 @@ www \
           ↳ index.php \
           ↳ config.php(Opcional) \
           ↳ script.js \
-          ↳ styles.css \
+          ↳ styles.css 
 
 </br>
 
