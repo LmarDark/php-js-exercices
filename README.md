@@ -8,7 +8,7 @@
 - <p>O projeto deve seguir a estrutura que consta no GitHub, cada pasta para cada equipe</p>
 - <p>Ferramentas que podem ser usadas:</p>
   - HTML
-  - <p>PHP</p>
-  - <p>Javascript</p>
-  - <p>Mustache.js</p>
-  - <p>Outras tecnologias</p>
+  - PHP
+  - Javascript
+  - Mustache.js
+  - Outras tecnologias
