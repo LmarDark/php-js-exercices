@@ -19,16 +19,17 @@
 **<p>Estrutura dos diretórios que deveser obdecida:</p>**
 
 www \
-  ↳ Equipe1 \
-          ↳ index.php \
-          ↳ config.php(Opcional) \
-          ↳ script.js \
-          ↳ styles.css 
+  ↳↳ Equipe1 \
+          ↳↳↳ index.php \
+          ↳↳↳ config.php(Opcional) \
+          ↳↳↳ script.js \
+          ↳↳↳ styles.css 
 
 </br>
 
-  ↳ Equipe2 \
-          ↳ index.php \
-          ↳ config.php(Opcional) \
-          ↳ script.js \
-          ↳ styles.css 
+www \
+  ↳↳ Equipe2 \
+          ↳↳↳ index.php \
+          ↳↳↳ config.php(Opcional) \
+          ↳↳↳ script.js \
+          ↳↳↳ styles.css 
