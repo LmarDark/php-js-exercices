@@ -9,7 +9,7 @@
 - <p>Ferramentas que podem ser usadas:</p>
 
   - HTML
-    - PHP
-      - Javascript
-        - Mustache.js
-          - Outras tecnologias
+  - PHP
+  - Javascript
+  - Mustache.js
+  - Outras tecnologias
