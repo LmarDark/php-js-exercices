@@ -36,5 +36,6 @@ www \
 
 </br>
 
+**<p>Equipes:</p>**
 <p>Equipe1 [F, P] (Iniciais dos participantes)</p>
 <p>Equipe2 [M, C] (Iniciais dos participantes)</p>
