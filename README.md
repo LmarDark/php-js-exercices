@@ -13,3 +13,17 @@
   - Javascript
   - Mustache.js
   - Outras tecnologias
+
+Estrutura dos diretórios que deveser obdecida:
+
+./www
+  ↳ /Equipe1
+          ↳ index.php
+          ↳ config.php(Opcional)
+          ↳ script.js
+          ↳ styles.css
+  ↳ Equipe2
+          ↳ index.php
+          ↳ config.php(Opcional)
+          ↳ script.js
+          ↳ styles.css
