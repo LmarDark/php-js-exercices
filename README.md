@@ -14,9 +14,9 @@
   - Mustache.js
   - Outras tecnologias
 
-**<p>Estrutura dos diretórios que deveser obdecida:</p>**
-
 </br>
+
+**<p>Estrutura dos diretórios que deveser obdecida:</p>**
 
 www \
   ↳ Equipe1 \
