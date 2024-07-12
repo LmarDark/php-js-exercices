@@ -24,7 +24,7 @@ www \
           ↳ script.js \
           ↳ styles.css \
   ↳ Equipe2 \
-          ↳ index.php \ 
+          ↳ index.php \
           ↳ config.php(Opcional) \
           ↳ script.js \
           ↳ styles.css \
